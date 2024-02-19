@@ -1,0 +1,77 @@
+﻿"Phrases"
+{
+	"Gave"
+	{
+		"en"			"把"
+	}
+
+	"Grabbed"
+	{
+		"en"			"捡到"
+	}
+
+	"Switched"
+	{
+		"en"			"交换"
+	}
+
+	"From"
+	{
+		"en"			"从"
+	}
+
+	"To"
+	{
+		"en"			"给予"
+	}
+
+	"With"
+	{
+		"en"			"给"
+	}
+
+	"weapon_molotov"
+	{
+		"en"			"火瓶"
+	}
+
+	"weapon_pipe_bomb"
+	{
+		"en"			"土制"
+	}
+
+	"weapon_vomitjar"
+	{
+		"en"			"胆汁"
+	}
+
+	"weapon_first_aid_kit"
+	{
+		"en"			"医疗包"
+	}
+
+	"weapon_pain_pills"
+	{
+		"en"			"药丸"
+	}
+
+	"weapon_adrenaline"
+	{
+		"en"			"兴奋剂"
+	}
+
+	"weapon_upgradepack_explosive"
+	{
+		"en"			"爆炸子弹盒"
+	}
+
+	"weapon_upgradepack_incendiary"
+	{
+		"en"			"燃烧子弹盒"
+	}
+
+	"weapon_defibrillator"
+	{
+		"en"			"电击器"
+	}
+}

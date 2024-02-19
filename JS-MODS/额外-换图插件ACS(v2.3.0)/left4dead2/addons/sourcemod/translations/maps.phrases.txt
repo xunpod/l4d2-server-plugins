@@ -1,0 +1,647 @@
+"Phrases" 
+{
+	"L4D2C1"
+	{
+		"en" "死亡中心"
+	}
+	"L4D2C2"
+	{
+		"en" "黑色狂欢节"
+	}
+	"L4D2C3"
+	{
+		"en" "沼泽激战"
+	}
+	"L4D2C4"
+	{
+		"en" "暴风骤雨"
+	}
+	"L4D2C5"
+	{
+		"en" "教区"
+	}
+	"L4D2C6"
+	{
+		"en" "短暂时刻"
+	}
+	"L4D2C7"
+	{
+		"en" "牺牲"
+	}
+	"L4D2C8"
+	{
+		"en" "毫不留情"
+	}
+	"L4D2C9"
+	{
+		"en" "坠机险途"
+	}
+	"L4D2C10"
+	{
+		"en" "死亡丧钟"
+	}
+	"L4D2C11"
+	{
+		"en" "静寂时分"
+	}
+	"L4D2C12"
+	{
+		"en" "血腥收获"
+	}
+	"L4D2C13"
+	{
+		"en" "刺骨寒溪"
+	}
+	"L4D2C14"
+	{
+		"en" "临死一搏"
+	}
+	"7HoursLaterII"
+	{
+		"en" "7小时后"
+	}
+	"Highway17L4D2"
+	{
+		"en" "17号高速公路"
+	}
+	"precinct84l4d2"
+	{
+		"en" "84警区"
+	}
+	"PlanBv051"
+	{
+		"en" "b计划"
+	}
+	"lego"
+	{
+		"en" "乐高Lego"
+	}
+	"TanksPlayground"
+	{
+		"en" "Tank竞技场"
+	}
+	"tume"
+	{
+		"en" "tume"
+	}
+	"Escansion"
+	{
+		"en" "阿森松岛"
+	}
+	"warcelona"
+	{
+		"en" "巴塞罗那"
+	}
+	"WhiteForest"
+	{
+		"en" "白森林"
+	}
+	"baishan"
+	{
+		"en" "拜山1崩服修复"
+	}
+	"bs2"
+	{
+		"en" "拜山2"
+	}
+	"EscUsingURBasicInstincts"
+	{
+		"en" "本能逃避"
+	}
+	"CrashBandicootL4D2"
+	{
+		"en" "崩溃的博士2020"
+	}
+	"behind"
+	{
+		"en" "别被丢下"
+	}
+	"FreezingKHMC"
+	{
+		"en" "冰点"
+	}
+	"buenosaires"
+	{
+		"en" "布宜诺斯艾利斯"
+	}
+	"buenosaires2"
+	{
+		"en" "布宜诺斯艾利斯2"
+	}
+	"hauntedforest"
+	{
+		"en" "颤栗森林"
+	}
+	"Outrun"
+	{
+		"en" "超越"
+	}
+	"chenchencity"
+	{
+		"en" "晨晨市"
+	}
+	"City17l4d2"
+	{
+		"en" "城市17"
+	}
+	"urbanflight"
+	{
+		"en" "城市航班"
+	}
+	"citycenterext"
+	{
+		"en" "城市中心启示录加长版"
+	}
+	"RedTide"
+	{
+		"en" "赤潮"
+	}
+	"RoadToNowhere2"
+	{
+		"en" "此路不通2"
+	}
+	"damitcomplete"
+	{
+		"en" "大坝"
+	}
+	"damitdc"
+	{
+		"en" "大坝2导演剪辑版"
+	}
+	"IMPJAWC1L4D2"
+	{
+		"en" "氮化铟"
+	}
+	"SubZero"
+	{
+		"en" "低于零度"
+	}
+	"DayAfter"
+	{
+		"en" "第二天"
+	}
+	"Diescraper362"
+	{
+		"en" "喋血蜃楼"
+	}
+	"cavetour"
+	{
+		"en" "洞穴之旅1"
+	}
+	"cavetour2"
+	{
+		"en" "洞穴之旅2"
+	}
+	"cavetour3"
+	{
+		"en" "洞穴之旅3"
+	}
+	"cavetour5"
+	{
+		"en" "洞穴之旅5"
+	}
+	"cavetour6parta"
+	{
+		"en" "洞穴之旅6"
+	}
+	"stenches"
+	{
+		"en" "恶臭"
+	}
+	"TheEvilWithin"
+	{
+		"en" "恶灵附身"
+	}
+	"EarTaters"
+	{
+		"en" "耳鸣者"
+	}
+	"TrueFangShi"
+	{
+		"en" "方氏"
+	}
+	"JourneyToSplashMountain"
+	{
+		"en" "飞溅山之旅"
+	}
+	"Lockdown"
+	{
+		"en" "封锁"
+	}
+	"LockdownChapterTwo"
+	{
+		"en" "封锁2"
+	}
+	"loonypark"
+	{
+		"en" "疯狂公园"
+	}
+	"TheHivefix"
+	{
+		"en" "蜂巢修复版"
+	}
+	"complexcourseR"
+	{
+		"en" "复杂过程"
+	}
+	"lovelettertoyu"
+	{
+		"en" "给小玉的情书/致小玉"
+	}
+	"hometown"
+	{
+		"en" "故乡"
+	}
+	"Zengchengone"
+	{
+		"en" "广州增城"
+	}
+	"Zengcheng"
+	{
+		"en" "广州增城旧版"
+	}
+	"capemurder"
+	{
+		"en" "海角杀戮2"
+	}
+	"bts"
+	{
+		"en" "回到学校"
+	}
+	"contraz"
+	{
+		"en" "魂斗罗Z"
+	}
+	"dbd2dc"
+	{
+		"en" "活死人黎明"
+	}
+	"silenthillf"
+	{
+		"en" "寂静岭1"
+	}
+	"LeftTurnSilentHill3"
+	{
+		"en" "寂静岭3"
+	}
+	"shool"
+	{
+		"en" "寂静岭另一边的生活"
+	}
+	"Evolution"
+	{
+		"en" "进化"
+	}
+	"red"
+	{
+		"en" "救赎2"
+	}
+	"Z3r04Bs0lut3971"
+	{
+		"en" "绝对零度"
+	}
+	"MIC2"
+	{
+		"en" "军事工厂2修复版"
+	}
+	"Pasiri"
+	{
+		"en" "可乐之塔"
+	}
+	"tot"
+	{
+		"en" "恐怖之旅"
+	}
+	"JTB2"
+	{
+		"en" "恐惧2"
+	}
+	"Sufrimiento"
+	{
+		"en" "苦难"
+	}
+	"BeginningtoCrossover"
+	{
+		"en" "跨越边境"
+	}
+	"PesadelonoCasteloLazar"
+	{
+		"en" "拉扎尔城堡红雾版"
+	}
+	"BlueHeaven"
+	{
+		"en" "蓝色天堂"
+	}
+	"connection"
+	{
+		"en" "连接"
+	}
+	"DeadSeries"
+	{
+		"en" "连续死亡"
+	}
+	"aqualiamacabre"
+	{
+		"en" "令人毛骨悚然的夸利亚"
+	}
+	"Leftinenna"
+	{
+		"en" "留在中国"
+	}
+	"LunaPark"
+	{
+		"en" "卢娜公园"
+	}
+	"QuestionableEthics"
+	{
+		"en" "伦理问题1"
+	}
+	"QuestionableEthicsAlphaTest"
+	{
+		"en" "伦理问题2"
+	}
+	"QuestionableEthicsCombined"
+	{
+		"en" "伦理问题3"
+	}
+	"yomimario2"
+	{
+		"en" "马里奥探险"
+	}
+	"ggsmi"
+	{
+		"en" "摩西岛阴影"
+	}
+	"Yama"
+	{
+		"en" "摩耶山危机"
+	}
+	"CedaFever"
+	{
+		"en" "疟疾"
+	}
+	"KP"
+	{
+		"en" "普拉特兰国王"
+	}
+	"qiuming"
+	{
+		"en" "秋名市"
+	}
+	"detourahead"
+	{
+		"en" "绕路前行"
+	}
+	"TittyTwister"
+	{
+		"en" "乳摇酒吧"
+	}
+	"ZPTZ"
+	{
+		"en" "丧尸俄城"
+	}
+	"BuriedDeep"
+	{
+		"en" "深埋"
+	}
+	"templeruins"
+	{
+		"en" "神庙逃亡"
+	}
+	"re1"
+	{
+		"en" "生化危机1"
+	}
+	"re2birkina"
+	{
+		"en" "生化危机2sideA"
+	}
+	"re2birkinb"
+	{
+		"en" "生化危机2sideB"
+	}
+	"re3nemesis"
+	{
+		"en" "生化危机3"
+	}
+	"TimeKHMC"
+	{
+		"en" "死期将至"
+	}
+	"deadechofixed"
+	{
+		"en" "死亡回声"
+	}
+	"L4D2DTClamBeta21"
+	{
+		"en" "死亡丧钟重制版"
+	}
+	"deathstop"
+	{
+		"en" "死亡停车场"
+	}
+	"deathsummer"
+	{
+		"en" "死亡夏天"
+	}
+	"deathSentence"
+	{
+		"en" "死刑"
+	}
+	"RMSTitanic"
+	{
+		"en" "泰坦尼克号"
+	}
+	"escdevilschapel"
+	{
+		"en" "逃离魔鬼教堂"
+	}
+	"EFV"
+	{
+		"en" "逃离瓦伦西亚"
+	}
+	"RunToTheHills"
+	{
+		"en" "逃至山上"
+	}
+	"heavencanwait2"
+	{
+		"en" "天堂可待2"
+	}
+	"BlackoutBasement"
+	{
+		"en" "停电地下室"
+	}
+	"paintrain"
+	{
+		"en" "痛苦列车"
+	}
+	"derailed"
+	{
+		"en" "脱轨"
+	}
+	"derailed2"
+	{
+		"en" "脱轨2"
+	}
+	"Hideout2"
+	{
+		"en" "完美藏身处"
+	}
+	"wanli"
+	{
+		"en" "万里"
+	}
+	"VC1ub5"
+	{
+		"en" "维也纳的呼唤1"
+	}
+	"VC2xy6"
+	{
+		"en" "维也纳的呼唤2"
+	}
+	"PlagueTale"
+	{
+		"en" "瘟疫传说"
+	}
+	"ihatemountains2"
+	{
+		"en" "我恨山2"
+	}
+	"omf"
+	{
+		"en" "我们共同的恶魔"
+	}
+	"wherethefairiesgo"
+	{
+		"en" "仙女去哪了"
+	}
+	"2evileyes"
+	{
+		"en" "邪恶双眸"
+	}
+	"newworldorderext"
+	{
+		"en" "新世界秩序修复版"
+	}
+	"snowden"
+	{
+		"en" "雪之巢穴"
+	}
+	"SaltHellPark"
+	{
+		"en" "盐井地狱公园"
+	}
+	"nightterror"
+	{
+		"en" "夜惊"
+	}
+	"yichangshi"
+	{
+		"en" "宜昌市"
+	}
+	"Landofoblivio"
+	{
+		"en" "遗忘之地"
+	}
+	"eye"
+	{
+		"en" "异度神召崩服修复"
+	}
+	"darkwood"
+	{
+		"en" "阴暗森林"
+	}
+	"bjrtc2"
+	{
+		"en" "阴霾将至"
+	}
+	"noechoremastered"
+	{
+		"en" "音讯全无重制版"
+	}
+	"Glubtastic"
+	{
+		"en" "忧郁1崩服修复"
+	}
+	"Glubtastic2"
+	{
+		"en" "忧郁2"
+	}
+	"Glubtastic3"
+	{
+		"en" "忧郁3"
+	}
+	"Glubtastic4"
+	{
+		"en" "忧郁4"
+	}
+	"claustrophobia"
+	{
+		"en" "幽闭恐惧症"
+	}
+	"L4D2C14"
+	{
+		"en" "有趣时刻"
+	}
+	"funnymoments"
+	{
+		"en" "临死一搏"
+	}
+	"rats"
+	{
+		"en" "浴室老鼠"
+	}
+	"Prison"
+	{
+		"en" "越狱"
+	}
+	"FarewellChenming"
+	{
+		"en" "再见了晨茗"
+	}
+	"GoodbyeNanning"
+	{
+		"en" "再见了南宁"
+	}
+	"Gunk"
+	{
+		"en" "粘液"
+	}
+	"lotrcampaign"
+	{
+		"en" "指环王"
+	}
+	"TheCure"
+	{
+		"en" "治愈1"
+	}
+	"Cure2"
+	{
+		"en" "治愈2"
+	}
+	"ReturntoCastleZOMBISTEIN"
+	{
+		"en" "重回僵尸城堡"
+	}
+	"fallenport"
+	{
+		"en" "坠落"
+	}
+	"fallenfortresspublic"
+	{
+		"en" "坠落森林"
+	}
+	"fallindeath"
+	{
+		"en" "坠入死亡"
+	}
+	"cfreepassageagurt"
+	{
+		"en" "自由通行"
+	}
+	"Finalescape"
+	{
+		"en" "最后的逃离"
+	}
+}
